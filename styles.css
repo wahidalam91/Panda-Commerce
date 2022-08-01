@@ -1,0 +1,15 @@
+.panda-bg-info {
+    background-color: #fceae8;
+}
+
+.panda-bg-primary {
+    background-color:#fceae8;
+}
+.panda-btn-warning {
+    background-color: rgb(250, 49, 89) ;
+    color: #fceae8;
+}
+.panda-btn-warning:hover {
+    background-color: rgb(250, 49, 89) ;
+    color: white;
+}
